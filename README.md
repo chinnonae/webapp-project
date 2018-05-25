@@ -2,11 +2,11 @@
 This repository contain 2 git submodules. One for php-backend project, another one for Vue.JS-frontend project.  
 please clone this repository with this command.  
 ``` bash
-git clone --depth 1 https://github.com/chinnonae/webapp-project.git
+git clone --recursive https://github.com/chinnonae/webapp-project.git
 ```
 or  
 ``` bash
-git clone --depth 1 git@github.com:chinnonae/webapp-project.git
+git clone --recursive git@github.com:chinnonae/webapp-project.git
 ```
 
 The instruction for both projects is in the README of each project.  
