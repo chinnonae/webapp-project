@@ -1,6 +1,6 @@
-[submodules "webapp-project-backend"]
-  path = webapp-project-backend
-  url = https://github.com/narutp/webapp-project-backend
-[submodules "webapp-project-frontend"]
-  path = webapp-project-frontend
-  url = https://github.com/narutp/webapp-project-frontend
+[submodule "webapp-project-backend"]
+	path = webapp-project-backend
+	url = https://github.com/narutp/webapp-project-backend
+[submodule "webapp-project-frontend"]
+	path = webapp-project-frontend
+	url = https://github.com/narutp/webapp-project-frontend
