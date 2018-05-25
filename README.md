@@ -10,6 +10,7 @@ git clone --depth 1 git@github.com:chinnonae/webapp-project.git
 ```
 
 The instruction for both projects is in the README of each project.  
+The sample data can be found in docs folder or in the backend project.  
 
 The Github Repositories for both project can be found here:  
 https://github.com/narutp/webapp-project-frontend  
