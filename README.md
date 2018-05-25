@@ -9,7 +9,13 @@ or
 git clone --depth 1 git@github.com:chinnonae/webapp-project.git
 ```
 
+The instruction for both projects is in the README of each project.  
+
 ## ER Diagram
-![ER diagram](https://github.com/chinnonae/webapp-project/blob/master/docs/WebApp%20project%20ER.png?raw=true)
+![ER diagram](https://github.com/chinnonae/webapp-project/blob/master/docs/WebApp%20project%20ER.png?raw=true)  
 Link to original file: https://drive.google.com/file/d/1Aj_WKuQRxohlLiJTjmIwSdUdTG_L0E48/view?usp=sharing  
 
+## Responsibility
+Chinthiti (backend) & Narut (frontend) -> Supervisor and Subordinates features.  
+Supanat (backend) & Patinya (frontend) -> Admin features.  
+The database schema is designed by Chinthiti and Supanat.  
